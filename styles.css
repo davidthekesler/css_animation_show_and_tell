@@ -1,0 +1,39 @@
+
+@keyframes example {
+    from {background-color: red;}
+    to {background-color: maroon;}
+}
+
+.red {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  background-color: red;
+  animation-name: example;
+  animation-duration: 5s;
+  float: left;
+}
+
+.yellow {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  background-color: yellow;
+  float: left;
+}
+
+.green {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  background-color: green;
+  float: left;
+}
+
+.blue{
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  background-color: blue;
+  float: left;
+}
